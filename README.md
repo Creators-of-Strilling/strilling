@@ -1,2 +1,7 @@
 # strilling
-Official repository for Strilling Library
+Official repository for Strilling Mod
+
+
+Requires Eclipse Temurin 8 to work
+
+
