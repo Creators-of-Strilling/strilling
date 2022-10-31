@@ -1,0 +1,10 @@
+[{
+  "modid": "strilling",
+  "name": "Strilling",
+  "description": "The Strilling Mod.",
+  "version": "1.0",
+  "mcversion": "1.12.2",
+  "logoFile": "assets/strilling/textures/logo.png",
+  "authorList": ["Adrikikicp"],
+  "credits": "The Helium Team"
+}]
