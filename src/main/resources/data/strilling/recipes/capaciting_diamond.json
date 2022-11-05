@@ -1,0 +1,11 @@
+{
+  "type": "strilling:capaciting",
+  "ingredients": [
+    {
+      "item": "minecraft:stick"
+    }
+  ],
+  "output": {
+    "item": "minecraft:diamond"
+  }
+}

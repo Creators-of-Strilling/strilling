@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "strilling:block/capacity_table"
+    }
+  }
+}

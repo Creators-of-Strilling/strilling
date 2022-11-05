@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "strilling:blocks/capacity_table",
+    "up": "strilling:blocks/capacity_table1",
+    "north": "strilling:blocks/capacity_table1",
+    "east": "strilling:blocks/capacity_table",
+    "south": "strilling:blocks/capacity_table1",
+    "west": "strilling:blocks/capacity_table",
+    "particle": "strilling:blocks/capacity_table"
+  },
+  "render_type": "solid"
+}

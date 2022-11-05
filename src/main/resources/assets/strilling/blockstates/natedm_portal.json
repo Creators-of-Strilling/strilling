@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "axis=z": {
+      "model": "strilling:block/natedm_portal_ew"
+    },
+    "axis=x": {
+      "model": "strilling:block/natedm_portal_ns"
+    }
+  }
+}
